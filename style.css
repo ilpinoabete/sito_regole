@@ -1,3 +1,48 @@
-body {
-    margin: 5px;
-}
+body{
+            background-color: black;
+        }
+        #immagine1{
+            position: absolute;
+            top: 25px;
+            left: 20px;
+            width: 150px;
+            height: 150px;
+        }
+        #immagine2{
+            position: absolute;
+            top: 25px;
+            right: 20px;
+            width: 150px;
+            height: 150px;
+        }
+        #principale{
+            top: 0.5cm;
+            text-align: justify;
+            position: relative;
+            margin: 0 auto;
+            width: 95%;
+            height: auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            -moz-border-radius: 10px;
+            -webkit-border-radius: 10px;
+        }
+        #testa{
+            text-align: center;
+            position: relative;
+            width: auto;
+            height: auto;
+            top: 0px;
+            left: 0px;
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            -moz-border-radius: 10px;
+            -webkit-border-radius: 10px;
+        }
+        h1{
+            font-size: auto;
+            font-family: 'Calibri','Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+            color: black;
+        }
