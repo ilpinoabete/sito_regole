@@ -1,5 +1,5 @@
 body{
-            background-color: black;
+            background-color: #007eef;
         }
         #immagine1{
             position: absolute;
@@ -7,6 +7,8 @@ body{
             left: 20px;
             width: 150px;
             height: 150px;
+           
+            
         }
         #immagine2{
             position: absolute;
@@ -14,6 +16,7 @@ body{
             right: 20px;
             width: 150px;
             height: 150px;
+            
         }
         #principale{
             top: 0.5cm;
@@ -45,4 +48,9 @@ body{
             font-size: auto;
             font-family: 'Calibri','Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
             color: black;
+        }
+        
+        #telegramlogo
+        {
+            border-radius: 200px;
         }
