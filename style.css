@@ -111,7 +111,7 @@ body {
   transition: all 0.4s ease;
 }
 
-/* Hamburger Lines - Top & Bottom */
+
 .hamburger > div::before,
 .hamburger > div::after {
   content: '';
