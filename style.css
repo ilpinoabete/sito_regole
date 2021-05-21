@@ -210,3 +210,17 @@ body {
 .hamburger {
   border-radius: 200px;
 }
+
+#fine{
+  text-align: center;
+  position: relative;
+  width: auto;
+  height: auto;
+  top: 40px;
+  left: 0px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 5px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
