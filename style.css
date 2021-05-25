@@ -224,3 +224,32 @@ body {
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
 }
+
+
+ul li a{
+  position: relative;
+  display: inline-block;
+  padding: 6px 15px;
+  text-decoration: none;
+  background: #2196f3;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  overflow: hidden;
+  transition: 0.5s;
+  z-index: 1;
+  border-radius: 15%;
+
+
+
+}
+
+ul li a:hover{
+  transform: scale(1.4);
+  z-index: 1000;
+  background: #103650;
+}
+
+
+
+
