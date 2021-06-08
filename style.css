@@ -252,4 +252,8 @@ ul li a:hover{
   #immagine2 {
     visibility: hidden;
   }
+  #img.b {
+    max-width: 100%;
+    max-height: auto;
+}
 }
