@@ -8,7 +8,7 @@ body{
             left: 40px;
             width: 150px;
             height: 150px;
-            
+
         }
         #immagine2{
             position: absolute;
@@ -16,7 +16,7 @@ body{
             right: 20px;
             width: 150px;
             height: 150px;
-            
+
         }
         #principale{
             top: 0.5cm;
@@ -24,7 +24,7 @@ body{
             position: relative;
             margin: 0 auto;
             width: 97,1%;
-            height: auto;
+            height: 300px;
             padding: 20px;
             background-color: white;
             border-radius: 20px;
@@ -49,12 +49,12 @@ body{
             font-family: 'Open Sans', sans-serif;;
             color: black;
         }
-        
+
         #telegramlogo
         {
             border-radius: 200px;
         }
-       
+
 :root {
   --primary-color: #007eef;
   --overlay-color: #007eef;
@@ -252,8 +252,4 @@ ul li a:hover{
   #immagine2 {
     visibility: hidden;
   }
-  #img.b {
-    max-width: 100%;
-    max-height: auto;
-}
 }
