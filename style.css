@@ -24,7 +24,7 @@ body{
             position: relative;
             margin: 0 auto;
             width: 97,1%;
-            height: 300px;
+            height: auto;
             padding: 20px;
             background-color: white;
             border-radius: 20px;
@@ -214,10 +214,10 @@ body {
   position: relative;
   width: auto;
   height: auto;
-  top: 40px;
+  top: 30px;
   left: 0px;
   background-color: white;
-  padding: 30px;
+  padding: 25px;
   border-radius: 5px;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
