@@ -1,13 +1,13 @@
 body{
             background-color: #007eef;
+            margin: 10px;
         }
         #immagine1{
             position: absolute;
-            top: 2px;px;
+            top: 2px;
             left: 40px;
             width: 150px;
             height: 150px;
-           
             
         }
         #immagine2{
